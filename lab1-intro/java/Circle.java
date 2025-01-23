@@ -43,6 +43,7 @@ class Circle {
   //   if(shouldPaintS(10, 10, 10)){
   //     System.out.println("Painting");
   //   }
+  // making changes to code in lab
   // }
   //test comment
 }
